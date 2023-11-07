@@ -1,0 +1,34 @@
+.block{
+    width:125px;
+    height:125px;
+    top: 0;
+    left: 0;
+    background-color: #ff0000;
+    position: absolute;
+    border: thick solid black;
+}
+.w3schoolsblock{
+    width:125px;
+    height:125px;
+    top: 100px;
+    left: 300px;
+    background-color: #00ff00;
+    position: absolute;
+    border: thick solid black;
+    text-align: center;
+    font-size: x-large;
+}
+.codecademyblock{
+    width:125px;
+    height:125px;
+    top: 100px;
+    left: 600px;
+    background-color: #1900ff;
+    position: absolute;
+    border: thick solid black;
+    text-align: center;
+    font-size: x-large;
+}
+body{
+    overflow:hidden;
+}
